@@ -1,0 +1,8 @@
+Author name and surname:
+Repository address:
+D1-K=2.csv,0.5
+D1-UNC.csv,1
+D2-K=7.csv,0.4
+D2-UNC.csv,4.2
+D3-K=12.csv,0.5
+D3-UNC.csv,0.7
