@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-01-09">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="pagerank" type="double" />
+      <attribute id="1" title="in_degree" type="long" />
+      <attribute id="2" title="followers_count" type="double" />
+      <attribute id="3" title="friends_count" type="double" />
+      <attribute id="4" title="statuses_count" type="double" />
+      <attribute id="5" title="lang" type="string" />
+      <attribute id="6" title="time_zone" type="string" />
+    </attributes>
+    <nodes>
+      <node id="_nickluna_" label="_nickluna_">
+        <attvalues>
+          <attvalue for="0" value="0.012737586062390496" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="cookncooks" label="cookncooks">
+        <attvalues>
+          <attvalue for="0" value="0.01787126956199616" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="garrettsimpson_" label="garrettsimpson_">
+        <attvalues>
+          <attvalue for="0" value="0.022392266343972515" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="leroylovesusa" label="leroylovesusa">
+        <attvalues>
+          <attvalue for="0" value="0.014655738687516911" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="priceforpierce" label="priceforpierce">
+        <attvalues>
+          <attvalue for="0" value="0.008584502328621216" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="ryanmaxwell_1" label="ryanmaxwell_1">
+        <attvalues>
+          <attvalue for="0" value="0.009246533518392896" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="giselleevns" label="giselleevns">
+        <attvalues>
+          <attvalue for="0" value="0.03826917101404756" />
+          <attvalue for="1" value="85" />
+        </attvalues>
+      </node>
+      <node id="heyits_toby" label="heyits_toby">
+        <attvalues>
+          <attvalue for="2" value="1424.0" />
+          <attvalue for="3" value="1676.0" />
+          <attvalue for="4" value="1396.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.01568610592554187" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="emileewaren" label="emileewaren">
+        <attvalues>
+          <attvalue for="0" value="0.005836472731491297" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="evagreen69" label="evagreen69">
+        <attvalues>
+          <attvalue for="0" value="0.00866205507290672" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="michellearry" label="michellearry">
+        <attvalues>
+          <attvalue for="0" value="0.013616797572667576" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="cassieweltch" label="cassieweltch">
+        <attvalues>
+          <attvalue for="0" value="0.031592044364895926" />
+          <attvalue for="1" value="57" />
+        </attvalues>
+      </node>
+      <node id="chrixmorgan" label="chrixmorgan">
+        <attvalues>
+          <attvalue for="0" value="0.007233020417216729" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="daileyjadon" label="daileyjadon">
+        <attvalues>
+          <attvalue for="0" value="0.03461126744323938" />
+          <attvalue for="1" value="69" />
+        </attvalues>
+      </node>
+      <node id="danageezus" label="danageezus">
+        <attvalues>
+          <attvalue for="0" value="0.011228294972218758" />
+          <attvalue for="1" value="34" />
+        </attvalues>
+      </node>
+      <node id="jasper_fly" label="jasper_fly">
+        <attvalues>
+          <attvalue for="0" value="0.027652452976909894" />
+          <attvalue for="1" value="46" />
+        </attvalues>
+      </node>
+      <node id="kathiemrr" label="kathiemrr">
+        <attvalues>
+          <attvalue for="0" value="0.02673178555849989" />
+          <attvalue for="1" value="48" />
+        </attvalues>
+      </node>
+      <node id="melvinsroberts" label="melvinsroberts">
+        <attvalues>
+          <attvalue for="0" value="0.022008105623066817" />
+          <attvalue for="1" value="32" />
+        </attvalues>
+      </node>
+      <node id="mr_clampin" label="mr_clampin">
+        <attvalues>
+          <attvalue for="2" value="2011.0" />
+          <attvalue for="3" value="1770.0" />
+          <attvalue for="4" value="3777.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.022134530402358566" />
+          <attvalue for="1" value="35" />
+        </attvalues>
+      </node>
+      <node id="notritahart" label="notritahart">
+        <attvalues>
+          <attvalue for="0" value="0.04775050852617005" />
+          <attvalue for="1" value="101" />
+        </attvalues>
+      </node>
+      <node id="puredavie" label="puredavie">
+        <attvalues>
+          <attvalue for="0" value="0.019247882812985437" />
+          <attvalue for="1" value="41" />
+        </attvalues>
+      </node>
+      <node id="queenofthewo" label="queenofthewo">
+        <attvalues>
+          <attvalue for="2" value="1704.0" />
+          <attvalue for="3" value="1427.0" />
+          <attvalue for="4" value="2233.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.02709106041140598" />
+          <attvalue for="1" value="51" />
+        </attvalues>
+      </node>
+      <node id="thefoundingson" label="thefoundingson">
+        <attvalues>
+          <attvalue for="0" value="0.006744096439099165" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="traceyhappymom" label="traceyhappymom">
+        <attvalues>
+          <attvalue for="2" value="3696.0" />
+          <attvalue for="3" value="3353.0" />
+          <attvalue for="4" value="4655.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.0206577253849887" />
+          <attvalue for="1" value="41" />
+        </attvalues>
+      </node>
+      <node id="jeffreykahunas" label="jeffreykahunas">
+        <attvalues>
+          <attvalue for="0" value="0.010530515656474969" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="hollandpatrickk" label="hollandpatrickk">
+        <attvalues>
+          <attvalue for="2" value="338.0" />
+          <attvalue for="3" value="429.0" />
+          <attvalue for="4" value="893.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.004557747968957568" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="cassishere" label="cassishere">
+        <attvalues>
+          <attvalue for="2" value="2121.0" />
+          <attvalue for="3" value="2220.0" />
+          <attvalue for="4" value="3831.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.004824171071635365" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="jeannemccarthy0" label="jeannemccarthy0">
+        <attvalues>
+          <attvalue for="0" value="0.0060313263371555015" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="logan_whatsup" label="logan_whatsup">
+        <attvalues>
+          <attvalue for="0" value="0.006526597380031922" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="laurabaeley" label="laurabaeley">
+        <attvalues>
+          <attvalue for="0" value="0.008863606158231861" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="ten_gop" label="ten_gop">
+        <attvalues>
+          <attvalue for="0" value="0.1290448600065996" />
+          <attvalue for="1" value="206" />
+        </attvalues>
+      </node>
+      <node id="judelambertusa" label="judelambertusa">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="mil0blake" label="mil0blake">
+        <attvalues>
+          <attvalue for="0" value="0.004755912809320544" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="patriotblake" label="patriotblake">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="march_for_trump" label="march_for_trump">
+        <attvalues>
+          <attvalue for="0" value="0.022245644180685482" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="pamela_moore13" label="pamela_moore13">
+        <attvalues>
+          <attvalue for="0" value="0.022695725545411834" />
+          <attvalue for="1" value="46" />
+        </attvalues>
+      </node>
+      <node id="tpartynews" label="tpartynews">
+        <attvalues>
+          <attvalue for="2" value="19976.0" />
+          <attvalue for="3" value="21908.0" />
+          <attvalue for="4" value="1649.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.09997997330831576" />
+          <attvalue for="1" value="95" />
+        </attvalues>
+      </node>
+      <node id="ameliebaldwin" label="ameliebaldwin">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="realten_gop" label="realten_gop">
+        <attvalues>
+          <attvalue for="0" value="0.021513668003533302" />
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </node>
+      <node id="rightnpr" label="rightnpr">
+        <attvalues>
+          <attvalue for="2" value="9297.0" />
+          <attvalue for="3" value="7930.0" />
+          <attvalue for="4" value="791.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.015119873385110073" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="usa_gunslinger" label="usa_gunslinger">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="bleepthepolice" label="bleepthepolice">
+        <attvalues>
+          <attvalue for="0" value="0.02102580226710261" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="gloed_up" label="gloed_up">
+        <attvalues>
+          <attvalue for="2" value="19314.0" />
+          <attvalue for="3" value="10011.0" />
+          <attvalue for="4" value="28695.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.033911137227942464" />
+          <attvalue for="1" value="46" />
+        </attvalues>
+      </node>
+      <node id="trayneshacole" label="trayneshacole">
+        <attvalues>
+          <attvalue for="0" value="0.024160400353201546" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="brightandglory" label="brightandglory">
+        <attvalues>
+          <attvalue for="2" value="3080.0" />
+          <attvalue for="3" value="3240.0" />
+          <attvalue for="4" value="3935.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="c__wells" label="c__wells">
+        <attvalues>
+          <attvalue for="2" value="NaN" />
+          <attvalue for="3" value="NaN" />
+          <attvalue for="4" value="NaN" />
+          <attvalue for="5" value="NaN" />
+          <attvalue for="6" value="NaN" />
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="micparrish" label="micparrish">
+        <attvalues>
+          <attvalue for="0" value="0.004481530722664117" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="carriethornthon" label="carriethornthon">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="dominicvalent" label="dominicvalent">
+        <attvalues>
+          <attvalue for="0" value="0.011395758594068835" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="worldofhashtags" label="worldofhashtags">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="jacquelinisbest" label="jacquelinisbest">
+        <attvalues>
+          <attvalue for="0" value="0.004755912809320544" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="cynthiamhunter" label="cynthiamhunter">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="dorothiebell" label="dorothiebell">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="hyddrox" label="hyddrox">
+        <attvalues>
+          <attvalue for="2" value="2225.0" />
+          <attvalue for="3" value="2159.0" />
+          <attvalue for="4" value="10242.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="lazykstafford" label="lazykstafford">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="finley1589" label="finley1589">
+        <attvalues>
+          <attvalue for="2" value="1409.0" />
+          <attvalue for="3" value="1187.0" />
+          <attvalue for="4" value="4283.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Central Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="wadeharriot" label="wadeharriot">
+        <attvalues>
+          <attvalue for="2" value="1363.0" />
+          <attvalue for="3" value="1040.0" />
+          <attvalue for="4" value="3089.0" />
+          <attvalue for="5" value="en" />
+          <attvalue for="6" value="Eastern Time (US &amp; Canada)" />
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="southlonestar" label="southlonestar">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="rh0lbr00k" label="rh0lbr00k">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="kateritterrrr" label="kateritterrrr">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="missourinewsus" label="missourinewsus">
+        <attvalues>
+          <attvalue for="0" value="0.003963253447868643" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="_nickluna_" target="cookncooks" id="0" weight="3" />
+      <edge source="_nickluna_" target="garrettsimpson_" id="1" weight="3" />
+      <edge source="_nickluna_" target="leroylovesusa" id="2" weight="3" />
+      <edge source="_nickluna_" target="priceforpierce" id="3" weight="3" />
+      <edge source="_nickluna_" target="ryanmaxwell_1" id="4" weight="6" />
+      <edge source="cookncooks" target="_nickluna_" id="5" weight="4" />
+      <edge source="cookncooks" target="giselleevns" id="6" weight="4" />
+      <edge source="cookncooks" target="heyits_toby" id="7" weight="4" />
+      <edge source="leroylovesusa" target="_nickluna_" id="8" weight="4" />
+      <edge source="leroylovesusa" target="cookncooks" id="9" weight="5" />
+      <edge source="leroylovesusa" target="jeffreykahunas" id="10" weight="3" />
+      <edge source="leroylovesusa" target="michellearry" id="11" weight="3" />
+      <edge source="priceforpierce" target="cookncooks" id="12" weight="3" />
+      <edge source="priceforpierce" target="evagreen69" id="13" weight="3" />
+      <edge source="priceforpierce" target="laurabaeley" id="14" weight="4" />
+      <edge source="priceforpierce" target="michellearry" id="15" weight="3" />
+      <edge source="giselleevns" target="cassieweltch" id="16" weight="11" />
+      <edge source="giselleevns" target="chrixmorgan" id="17" weight="10" />
+      <edge source="giselleevns" target="daileyjadon" id="18" weight="20" />
+      <edge source="giselleevns" target="danageezus" id="19" weight="8" />
+      <edge source="giselleevns" target="jasper_fly" id="20" weight="8" />
+      <edge source="giselleevns" target="kathiemrr" id="21" weight="4" />
+      <edge source="giselleevns" target="melvinsroberts" id="22" weight="11" />
+      <edge source="giselleevns" target="mr_clampin" id="23" weight="7" />
+      <edge source="giselleevns" target="notritahart" id="24" weight="15" />
+      <edge source="giselleevns" target="puredavie" id="25" weight="14" />
+      <edge source="giselleevns" target="queenofthewo" id="26" weight="14" />
+      <edge source="giselleevns" target="thefoundingson" id="27" weight="3" />
+      <edge source="giselleevns" target="traceyhappymom" id="28" weight="9" />
+      <edge source="heyits_toby" target="cookncooks" id="29" weight="5" />
+      <edge source="heyits_toby" target="evagreen69" id="30" weight="3" />
+      <edge source="heyits_toby" target="giselleevns" id="31" weight="3" />
+      <edge source="heyits_toby" target="jeffreykahunas" id="32" weight="4" />
+      <edge source="heyits_toby" target="priceforpierce" id="33" weight="3" />
+      <edge source="emileewaren" target="garrettsimpson_" id="34" weight="3" />
+      <edge source="emileewaren" target="heyits_toby" id="35" weight="4" />
+      <edge source="evagreen69" target="leroylovesusa" id="36" weight="3" />
+      <edge source="evagreen69" target="michellearry" id="37" weight="3" />
+      <edge source="michellearry" target="garrettsimpson_" id="38" weight="5" />
+      <edge source="cassieweltch" target="daileyjadon" id="39" weight="5" />
+      <edge source="cassieweltch" target="dominicvalent" id="40" weight="3" />
+      <edge source="cassieweltch" target="jasper_fly" id="41" weight="5" />
+      <edge source="cassieweltch" target="kathiemrr" id="42" weight="7" />
+      <edge source="cassieweltch" target="melvinsroberts" id="43" weight="4" />
+      <edge source="cassieweltch" target="mr_clampin" id="44" weight="6" />
+      <edge source="cassieweltch" target="notritahart" id="45" weight="5" />
+      <edge source="cassieweltch" target="queenofthewo" id="46" weight="4" />
+      <edge source="cassieweltch" target="traceyhappymom" id="47" weight="4" />
+      <edge source="chrixmorgan" target="giselleevns" id="48" weight="3" />
+      <edge source="daileyjadon" target="cassieweltch" id="49" weight="3" />
+      <edge source="daileyjadon" target="dominicvalent" id="50" weight="3" />
+      <edge source="daileyjadon" target="jasper_fly" id="51" weight="8" />
+      <edge source="daileyjadon" target="kathiemrr" id="52" weight="4" />
+      <edge source="daileyjadon" target="melvinsroberts" id="53" weight="5" />
+      <edge source="daileyjadon" target="notritahart" id="54" weight="8" />
+      <edge source="daileyjadon" target="queenofthewo" id="55" weight="5" />
+      <edge source="daileyjadon" target="thefoundingson" id="56" weight="3" />
+      <edge source="daileyjadon" target="traceyhappymom" id="57" weight="4" />
+      <edge source="jasper_fly" target="cassieweltch" id="58" weight="6" />
+      <edge source="jasper_fly" target="daileyjadon" id="59" weight="6" />
+      <edge source="jasper_fly" target="kathiemrr" id="60" weight="3" />
+      <edge source="jasper_fly" target="melvinsroberts" id="61" weight="6" />
+      <edge source="jasper_fly" target="mr_clampin" id="62" weight="5" />
+      <edge source="jasper_fly" target="notritahart" id="63" weight="4" />
+      <edge source="jasper_fly" target="traceyhappymom" id="64" weight="3" />
+      <edge source="kathiemrr" target="cassieweltch" id="65" weight="3" />
+      <edge source="kathiemrr" target="daileyjadon" id="66" weight="5" />
+      <edge source="kathiemrr" target="jasper_fly" id="67" weight="4" />
+      <edge source="kathiemrr" target="mr_clampin" id="68" weight="3" />
+      <edge source="kathiemrr" target="notritahart" id="69" weight="19" />
+      <edge source="kathiemrr" target="puredavie" id="70" weight="5" />
+      <edge source="kathiemrr" target="queenofthewo" id="71" weight="8" />
+      <edge source="kathiemrr" target="traceyhappymom" id="72" weight="3" />
+      <edge source="melvinsroberts" target="cassieweltch" id="73" weight="8" />
+      <edge source="melvinsroberts" target="daileyjadon" id="74" weight="7" />
+      <edge source="melvinsroberts" target="danageezus" id="75" weight="3" />
+      <edge source="melvinsroberts" target="giselleevns" id="76" weight="36" />
+      <edge source="melvinsroberts" target="kathiemrr" id="77" weight="7" />
+      <edge source="melvinsroberts" target="mr_clampin" id="78" weight="4" />
+      <edge source="melvinsroberts" target="notritahart" id="79" weight="7" />
+      <edge source="melvinsroberts" target="puredavie" id="80" weight="8" />
+      <edge source="melvinsroberts" target="queenofthewo" id="81" weight="5" />
+      <edge source="melvinsroberts" target="traceyhappymom" id="82" weight="8" />
+      <edge source="mr_clampin" target="cassieweltch" id="83" weight="5" />
+      <edge source="mr_clampin" target="daileyjadon" id="84" weight="3" />
+      <edge source="mr_clampin" target="dominicvalent" id="85" weight="5" />
+      <edge source="mr_clampin" target="jasper_fly" id="86" weight="6" />
+      <edge source="mr_clampin" target="melvinsroberts" id="87" weight="3" />
+      <edge source="mr_clampin" target="notritahart" id="88" weight="8" />
+      <edge source="mr_clampin" target="puredavie" id="89" weight="4" />
+      <edge source="mr_clampin" target="queenofthewo" id="90" weight="4" />
+      <edge source="mr_clampin" target="traceyhappymom" id="91" weight="3" />
+      <edge source="notritahart" target="cassieweltch" id="92" weight="6" />
+      <edge source="notritahart" target="daileyjadon" id="93" weight="5" />
+      <edge source="notritahart" target="jasper_fly" id="94" weight="4" />
+      <edge source="notritahart" target="kathiemrr" id="95" weight="3" />
+      <edge source="notritahart" target="melvinsroberts" id="96" weight="3" />
+      <edge source="notritahart" target="mr_clampin" id="97" weight="4" />
+      <edge source="notritahart" target="puredavie" id="98" weight="3" />
+      <edge source="notritahart" target="queenofthewo" id="99" weight="4" />
+      <edge source="puredavie" target="cassieweltch" id="100" weight="3" />
+      <edge source="puredavie" target="daileyjadon" id="101" weight="4" />
+      <edge source="puredavie" target="dominicvalent" id="102" weight="4" />
+      <edge source="puredavie" target="giselleevns" id="103" weight="18" />
+      <edge source="puredavie" target="jasper_fly" id="104" weight="6" />
+      <edge source="puredavie" target="kathiemrr" id="105" weight="6" />
+      <edge source="puredavie" target="mr_clampin" id="106" weight="3" />
+      <edge source="puredavie" target="notritahart" id="107" weight="4" />
+      <edge source="puredavie" target="queenofthewo" id="108" weight="3" />
+      <edge source="puredavie" target="traceyhappymom" id="109" weight="3" />
+      <edge source="queenofthewo" target="cassieweltch" id="110" weight="6" />
+      <edge source="queenofthewo" target="daileyjadon" id="111" weight="8" />
+      <edge source="queenofthewo" target="kathiemrr" id="112" weight="6" />
+      <edge source="queenofthewo" target="notritahart" id="113" weight="25" />
+      <edge source="queenofthewo" target="traceyhappymom" id="114" weight="4" />
+      <edge source="traceyhappymom" target="cassieweltch" id="115" weight="6" />
+      <edge source="traceyhappymom" target="daileyjadon" id="116" weight="6" />
+      <edge source="traceyhappymom" target="danageezus" id="117" weight="4" />
+      <edge source="traceyhappymom" target="giselleevns" id="118" weight="3" />
+      <edge source="traceyhappymom" target="jasper_fly" id="119" weight="5" />
+      <edge source="traceyhappymom" target="kathiemrr" id="120" weight="8" />
+      <edge source="traceyhappymom" target="mr_clampin" id="121" weight="3" />
+      <edge source="traceyhappymom" target="notritahart" id="122" weight="6" />
+      <edge source="traceyhappymom" target="puredavie" id="123" weight="7" />
+      <edge source="traceyhappymom" target="queenofthewo" id="124" weight="4" />
+      <edge source="jeffreykahunas" target="emileewaren" id="125" weight="3" />
+      <edge source="jeffreykahunas" target="garrettsimpson_" id="126" weight="5" />
+      <edge source="jeffreykahunas" target="heyits_toby" id="127" weight="6" />
+      <edge source="jeffreykahunas" target="laurabaeley" id="128" weight="4" />
+      <edge source="jeffreykahunas" target="ten_gop" id="129" weight="3" />
+      <edge source="hollandpatrickk" target="cassishere" id="130" weight="4" />
+      <edge source="hollandpatrickk" target="jeannemccarthy0" id="131" weight="7" />
+      <edge source="hollandpatrickk" target="leroylovesusa" id="132" weight="3" />
+      <edge source="hollandpatrickk" target="michellearry" id="133" weight="4" />
+      <edge source="jeannemccarthy0" target="cookncooks" id="134" weight="3" />
+      <edge source="jeannemccarthy0" target="logan_whatsup" id="135" weight="3" />
+      <edge source="ten_gop" target="march_for_trump" id="136" weight="7" />
+      <edge source="ten_gop" target="pamela_moore13" id="137" weight="3" />
+      <edge source="ten_gop" target="tpartynews" id="138" weight="32" />
+      <edge source="judelambertusa" target="heyits_toby" id="139" weight="4" />
+      <edge source="judelambertusa" target="jeannemccarthy0" id="140" weight="3" />
+      <edge source="judelambertusa" target="laurabaeley" id="141" weight="3" />
+      <edge source="judelambertusa" target="michellearry" id="142" weight="5" />
+      <edge source="judelambertusa" target="ryanmaxwell_1" id="143" weight="3" />
+      <edge source="mil0blake" target="leroylovesusa" id="144" weight="4" />
+      <edge source="patriotblake" target="ten_gop" id="145" weight="5" />
+      <edge source="pamela_moore13" target="ten_gop" id="146" weight="3" />
+      <edge source="tpartynews" target="pamela_moore13" id="147" weight="3" />
+      <edge source="tpartynews" target="realten_gop" id="148" weight="13" />
+      <edge source="tpartynews" target="rightnpr" id="149" weight="8" />
+      <edge source="tpartynews" target="ten_gop" id="150" weight="47" />
+      <edge source="ameliebaldwin" target="pamela_moore13" id="151" weight="6" />
+      <edge source="ameliebaldwin" target="ten_gop" id="152" weight="21" />
+      <edge source="ameliebaldwin" target="tpartynews" id="153" weight="3" />
+      <edge source="realten_gop" target="pamela_moore13" id="154" weight="6" />
+      <edge source="realten_gop" target="rightnpr" id="155" weight="7" />
+      <edge source="realten_gop" target="ten_gop" id="156" weight="40" />
+      <edge source="realten_gop" target="tpartynews" id="157" weight="28" />
+      <edge source="rightnpr" target="pamela_moore13" id="158" weight="6" />
+      <edge source="rightnpr" target="realten_gop" id="159" weight="13" />
+      <edge source="rightnpr" target="ten_gop" id="160" weight="37" />
+      <edge source="rightnpr" target="tpartynews" id="161" weight="28" />
+      <edge source="usa_gunslinger" target="ten_gop" id="162" weight="6" />
+      <edge source="bleepthepolice" target="gloed_up" id="163" weight="10" />
+      <edge source="bleepthepolice" target="trayneshacole" id="164" weight="4" />
+      <edge source="gloed_up" target="bleepthepolice" id="165" weight="10" />
+      <edge source="gloed_up" target="trayneshacole" id="166" weight="11" />
+      <edge source="trayneshacole" target="bleepthepolice" id="167" weight="7" />
+      <edge source="trayneshacole" target="gloed_up" id="168" weight="36" />
+      <edge source="brightandglory" target="danageezus" id="169" weight="3" />
+      <edge source="brightandglory" target="giselleevns" id="170" weight="3" />
+      <edge source="c__wells" target="_nickluna_" id="171" weight="3" />
+      <edge source="c__wells" target="heyits_toby" id="172" weight="4" />
+      <edge source="c__wells" target="jeffreykahunas" id="173" weight="4" />
+      <edge source="c__wells" target="laurabaeley" id="174" weight="3" />
+      <edge source="c__wells" target="leroylovesusa" id="175" weight="4" />
+      <edge source="c__wells" target="micparrish" id="176" weight="4" />
+      <edge source="c__wells" target="ryanmaxwell_1" id="177" weight="4" />
+      <edge source="carriethornthon" target="ten_gop" id="178" weight="3" />
+      <edge source="worldofhashtags" target="chrixmorgan" id="179" weight="8" />
+      <edge source="worldofhashtags" target="danageezus" id="180" weight="16" />
+      <edge source="worldofhashtags" target="giselleevns" id="181" weight="8" />
+      <edge source="jacquelinisbest" target="giselleevns" id="182" weight="4" />
+      <edge source="cynthiamhunter" target="ten_gop" id="183" weight="5" />
+      <edge source="dorothiebell" target="emileewaren" id="184" weight="3" />
+      <edge source="dorothiebell" target="evagreen69" id="185" weight="4" />
+      <edge source="dorothiebell" target="giselleevns" id="186" weight="3" />
+      <edge source="dorothiebell" target="jacquelinisbest" id="187" weight="4" />
+      <edge source="dorothiebell" target="priceforpierce" id="188" weight="3" />
+      <edge source="hyddrox" target="pamela_moore13" id="189" weight="5" />
+      <edge source="hyddrox" target="ten_gop" id="190" weight="12" />
+      <edge source="lazykstafford" target="garrettsimpson_" id="191" weight="4" />
+      <edge source="lazykstafford" target="hollandpatrickk" id="192" weight="3" />
+      <edge source="lazykstafford" target="jeffreykahunas" id="193" weight="3" />
+      <edge source="lazykstafford" target="mil0blake" id="194" weight="4" />
+      <edge source="lazykstafford" target="ryanmaxwell_1" id="195" weight="3" />
+      <edge source="finley1589" target="ten_gop" id="196" weight="8" />
+      <edge source="wadeharriot" target="ten_gop" id="197" weight="4" />
+      <edge source="southlonestar" target="ten_gop" id="198" weight="5" />
+      <edge source="southlonestar" target="tpartynews" id="199" weight="4" />
+      <edge source="rh0lbr00k" target="ten_gop" id="200" weight="4" />
+      <edge source="kateritterrrr" target="ten_gop" id="201" weight="3" />
+      <edge source="missourinewsus" target="pamela_moore13" id="202" weight="17" />
+    </edges>
+  </graph>
+</gexf>
